@@ -1,4 +1,4 @@
-# IITB-CS747
+## IITB-CS747
 
 
 + Assignmnets from online course on Foundations of Intelligent Agents from IIT Bombay, CS747
